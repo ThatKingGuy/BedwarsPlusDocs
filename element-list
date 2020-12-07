@@ -1,0 +1,11 @@
+com.gabe.bedwars
+com.gabe.bedwars.api
+com.gabe.bedwars.api.events
+com.gabe.bedwars.arenas
+com.gabe.bedwars.errors
+com.gabe.bedwars.listeners
+com.gabe.bedwars.managers
+com.gabe.bedwars.shop
+com.gabe.bedwars.tabcomplete
+com.gabe.bedwars.team
+com.gabe.bedwars.upgrade
